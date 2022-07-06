@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Layout, { siteTitle } from '../components/Layout'
 import utilsStyles from '../styles/utils.module.css'
-import styles from '../styles/home.module.css'
+import styles from '../styles/Home.module.css'
 import { getPostsData } from '../lib/post'
 import Head from 'next/head'
 
